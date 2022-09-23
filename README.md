@@ -1,4 +1,6 @@
-# csa0840day 1
+# csa0840 
+day 1
+
 isomorphic
 sumsquare
 happy number
