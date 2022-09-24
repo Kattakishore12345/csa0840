@@ -50,3 +50,15 @@ roman to integer.py
 roman numeral.py
 year is divided into four sessions.py
 sceamble string
+
+DAY-5
+
+Robert problem
+perfect square numbers
+reverse words in string
+length of the string
+bonus on salary
+peak element
+sum of elements in the nth row
+Longest Substring
+NxN
